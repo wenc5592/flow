@@ -39,7 +39,7 @@ ArmorHUD:false:0:false
 AutoArmor:true:0:false
 InvMove:true:0:false
 Crosshair:false:0:false
-KillAura:false:19:false
+KillAura:true:19:false
 NoRotate:false:0:false
 NoSlow:true:0:false
 AutoPot:true:0:false
@@ -61,3 +61,5 @@ AutoEat:false:0:false
 NoHurtCam:false:0:false
 MCF:false:0:false
 KillSults:true:0:false
+GamePlay:true:0:false
+Disabler:false:0:false
