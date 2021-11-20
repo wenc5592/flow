@@ -1,0 +1,115 @@
+Animations:Animation:Flow
+AntiVoid:Mode:Motion
+AntiVoid:Void:true
+AntiVoid:Distance:5
+InvManager:Clean Food:false
+InvManager:Sword:true
+InvManager:Block Cap:256.0
+InvManager:Clean Archery:false
+InvManager:OpenInv:true
+InvManager:Delay:76.79245283018868
+Timer:Timer Speed:0.3
+ESP:Mode:Outline
+ESP:Team:true
+PingSpoof:Wait:15
+Speed:Mode:SlowHop
+Criticals:Mode:Packet
+Criticals:HurtTime:8.867924528301888
+Tracers:Signs:false
+Tracers:Spawners:false
+Tracers:Chests:false
+Tracers:Players:true
+AutoClicker:On Mouse:true
+AutoClicker:Random:true
+AutoClicker:Min Random:50
+AutoClicker:Delay:100
+AutoClicker:Max Random:100
+AimAssist:FOV Yaw:45
+AimAssist:FOV Pitch:25
+AimAssist:V Speed:15
+AimAssist:Random H:0
+AimAssist:Range:4.5
+AimAssist:Weapon:true
+AimAssist:Random V:0
+AimAssist:H Speed:20
+Scaffold:Block Mode:Spoof
+Scaffold:SafeWalk:true
+Scaffold:Timer:1
+Scaffold:Mode:Packet
+Scaffold:Tower:true
+Scaffold:Sprint:false
+NoFall:Mode:Packet
+FreeCam:Speed:1.0
+LongJump:Boost:3
+LongJump:Toggle:true
+LongJump:Mode:NCP
+AntiBot:Dead:true
+AntiBot:Mode:Hypixel
+FastUse:Ticks:12
+FastUse:Mode:Packet
+FastUse:Bow:false
+ChestStealer:Ignore:true
+ChestStealer:Close:true
+ChestStealer:Aura:false
+ChestStealer:Delay:24.537735849056606
+ChestStealer:Drop:false
+Fly:Speed:0.25
+Fly:Mode:Minemora
+AutoSoup:Health:3
+AutoSoup:Delay:350
+AutoSoup:Drop:false
+Xray:Cave:false
+Xray:Opacity:160
+Velocity:Vertical:0
+Velocity:Horizontal:0
+Velocity:Mode:Simple
+FastPlace:Click Speed:4
+Commands:Chat Prefix:.
+HUD:Potions:true
+NameTags:Invisibles:true
+NameTags:Armor:false
+AutoArmor:OpenInv:false
+AutoArmor:Delay:54.52830188679245
+InvMove:Carry:false
+KillAura:Others:true
+KillAura:Invisibles:true
+KillAura:Auto Block:Vanilla
+KillAura:Priority:Range
+KillAura:Mode:Vanilla
+KillAura:Disable on Death:true
+KillAura:FOV:160.89622641509433
+KillAura:Range:5.226415094339623
+KillAura:Min CPS:9.066037735849058
+KillAura:Target HUD:true
+KillAura:Keep Sprint:true
+KillAura:Teams:false
+KillAura:Max CPS:12.650943396226415
+KillAura:Event Mode:PRE
+KillAura:Players:true
+NoSlow:Mode:Vanilla
+AutoPot:Predict:true
+AutoPot:Speed:true
+AutoPot:Health:4.264150943396227
+AutoPot:Jump:false
+AutoPot:Overpot:false
+AutoPot:Delay:350
+AutoPot:Regen:true
+TabGUI:ToolTops:true
+Phase:Mode:Clip
+Phase:Distance:2
+Blink:Fly:false
+Blink:Breadcrumbs:true
+NameProtect:Hide Tab List:false
+NameProtect:Scramble Players:false
+NameProtect:Hide Scoreboard:false
+NameProtect:Name Protect:true
+NameProtect:Spoof Skins:false
+AutoEat:Food Level:8.5
+KillSults:Mode:Minemora
+KillSults:Spanish:true
+KillSults:Advertise:true
+GamePlay:Auto GG:true
+GamePlay:Auto Join:true
+GamePlay:Mode:Minemora
+GamePlay:Auto Play:true
+Disabler:Mode:VerusCombat
