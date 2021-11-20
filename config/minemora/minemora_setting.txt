@@ -14,7 +14,7 @@ ESP:Team:true
 PingSpoof:Wait:15
 Speed:Mode:SlowHop
 Criticals:Mode:Packet
-Criticals:HurtTime:8.867924528301888
+Criticals:HurtTime:9
 Tracers:Signs:false
 Tracers:Spawners:false
 Tracers:Chests:false
@@ -51,7 +51,7 @@ FastUse:Bow:false
 ChestStealer:Ignore:true
 ChestStealer:Close:true
 ChestStealer:Aura:false
-ChestStealer:Delay:24.537735849056606
+ChestStealer:Delay:25
 ChestStealer:Drop:false
 Fly:Speed:0.25
 Fly:Mode:Minemora
@@ -69,7 +69,7 @@ HUD:Potions:true
 NameTags:Invisibles:true
 NameTags:Armor:false
 AutoArmor:OpenInv:false
-AutoArmor:Delay:54.52830188679245
+AutoArmor:Delay:25
 InvMove:Carry:false
 KillAura:Others:true
 KillAura:Invisibles:true
@@ -77,19 +77,19 @@ KillAura:Auto Block:Vanilla
 KillAura:Priority:Range
 KillAura:Mode:Vanilla
 KillAura:Disable on Death:true
-KillAura:FOV:160.89622641509433
-KillAura:Range:5.226415094339623
-KillAura:Min CPS:9.066037735849058
+KillAura:FOV:160
+KillAura:Range:5.2
+KillAura:Min CPS:9
 KillAura:Target HUD:true
 KillAura:Keep Sprint:true
 KillAura:Teams:false
-KillAura:Max CPS:12.650943396226415
+KillAura:Max CPS:12
 KillAura:Event Mode:PRE
 KillAura:Players:true
 NoSlow:Mode:Vanilla
 AutoPot:Predict:true
 AutoPot:Speed:true
-AutoPot:Health:4.264150943396227
+AutoPot:Health:4.5
 AutoPot:Jump:false
 AutoPot:Overpot:false
 AutoPot:Delay:350
