@@ -7,7 +7,7 @@ InvManager:Sword:true
 InvManager:Block Cap:256.0
 InvManager:Clean Archery:false
 InvManager:OpenInv:true
-InvManager:Delay:76.79245283018868
+InvManager:Delay:75
 Timer:Timer Speed:0.3
 ESP:Mode:Outline
 ESP:Team:true
@@ -105,11 +105,11 @@ NameProtect:Hide Scoreboard:false
 NameProtect:Name Protect:true
 NameProtect:Spoof Skins:false
 AutoEat:Food Level:8.5
-KillSults:Mode:Minemora
+KillSults:Mode:BlocksMC
 KillSults:Spanish:false
 KillSults:Advertise:false
 GamePlay:Auto GG:true
 GamePlay:Auto Join:true
-GamePlay:Mode:Minemora
+GamePlay:Mode:BlocksMC
 GamePlay:Auto Play:true
 Disabler:Mode:VerusCombat
