@@ -35,7 +35,7 @@ AimAssist:H Speed:20
 Scaffold:Block Mode:Switch
 Scaffold:SafeWalk:true
 Scaffold:Timer:1
-Scaffold:Mode:Normal
+Scaffold:Mode:Packet
 Scaffold:Tower:false
 Scaffold:Sprint:true
 NoFall:Mode:Verus
@@ -53,7 +53,7 @@ ChestStealer:Close:true
 ChestStealer:Aura:false
 ChestStealer:Delay:81.0
 ChestStealer:Drop:false
-Fly:Speed:0.25
+Fly:Speed:3.39
 Fly:Mode:VerusFast
 AutoSoup:Health:3
 AutoSoup:Delay:350
@@ -65,7 +65,10 @@ Velocity:Horizontal:0
 Velocity:Mode:Simple
 FastPlace:Click Speed:4
 Commands:Chat Prefix:.
-HUD:Potions:true
+HUD:Red:143.0
+HUD:Blue:235
+HUD:Mode:Simple
+HUD:Green:186
 NameTags:Invisibles:true
 NameTags:Armor:false
 AutoArmor:OpenInv:false
