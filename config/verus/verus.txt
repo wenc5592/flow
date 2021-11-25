@@ -16,7 +16,7 @@ AutoClicker:false:0:false
 AimAssist:false:0:false
 AutoTool:true:0:false
 Scaffold:false:44:false
-NoFall:true:0:false
+NoFall:false:0:false
 FreeCam:false:0:false
 LongJump:false:34:false
 AntiBot:false:0:false
@@ -35,7 +35,7 @@ HUD:true:0:false
 NameTags:true:0:false
 AutoArmor:true:0:false
 InvMove:true:0:false
-KillAura:false:19:false
+KillAura:true:19:false
 NoRotate:true:0:false
 NoSlow:true:0:false
 AutoPot:true:0:false
@@ -52,4 +52,4 @@ NoHurtCam:false:0:false
 MCF:false:0:false
 KillSults:true:0:false
 GamePlay:true:0:false
-Disabler:false:0:false
+Disabler:true:0:false
