@@ -1,6 +1,6 @@
 Animations:true:0:false
 AntiVoid:true:0:false
-InvManager:true:0:false
+InvManager:true:50:false
 Timer:false:0:false
 Step:false:0:false
 Teleport:false:0:false
@@ -35,7 +35,7 @@ HUD:true:0:false
 NameTags:true:0:false
 AutoArmor:true:0:false
 InvMove:true:0:false
-KillAura:true:19:false
+KillAura:false:19:false
 NoRotate:true:0:false
 NoSlow:true:0:false
 AutoPot:true:0:false
@@ -52,4 +52,4 @@ NoHurtCam:false:0:false
 MCF:false:0:false
 KillSults:true:0:false
 GamePlay:true:0:false
-Disabler:true:0:false
+Disabler:false:0:false
