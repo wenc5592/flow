@@ -7,7 +7,7 @@ InvManager:Sword:true
 InvManager:Block Cap:256.0
 InvManager:Clean Archery:false
 InvManager:OpenInv:true
-InvManager:Delay:75
+InvManager:Delay:48.96
 Timer:Timer Speed:0.3
 ESP:Mode:Outline
 ESP:Team:true
@@ -37,7 +37,7 @@ Scaffold:SafeWalk:true
 Scaffold:Timer:1
 Scaffold:Mode:Packet
 Scaffold:Tower:false
-Scaffold:Sprint:true
+Scaffold:Sprint:false
 NoFall:Mode:Verus
 FreeCam:Speed:1.0
 LongJump:Boost:3
@@ -49,11 +49,12 @@ FastUse:Ticks:12
 FastUse:Mode:Packet
 FastUse:Bow:false
 ChestStealer:Ignore:true
+ChestStealer:Silent:true
 ChestStealer:Close:true
 ChestStealer:Aura:false
-ChestStealer:Delay:81.0
+ChestStealer:Delay:5.71
 ChestStealer:Drop:false
-Fly:Speed:3.39
+Fly:Speed:3.03
 Fly:Mode:VerusFast
 AutoSoup:Health:3
 AutoSoup:Delay:350
@@ -67,26 +68,27 @@ FastPlace:Click Speed:4
 Commands:Chat Prefix:.
 HUD:Red:143.0
 HUD:Blue:235
-HUD:Mode:Simple
+HUD:Rainbow:true
+HUD:Mode:Flow
 HUD:Green:186
 NameTags:Invisibles:true
 NameTags:Armor:false
-AutoArmor:OpenInv:false
+AutoArmor:OpenInv:true
 AutoArmor:Delay:71.2
 InvMove:Carry:false
-KillAura:Others:true
-KillAura:Invisibles:true
+KillAura:Others:false
+KillAura:Invisibles:false
 KillAura:Auto Block:None
 KillAura:Priority:Range
 KillAura:Mode:Vanilla
 KillAura:Disable on Death:true
-KillAura:FOV:160
-KillAura:Range:4.6
+KillAura:FOV:250.05
+KillAura:Range:4.5
 KillAura:Min CPS:9.1
 KillAura:Target HUD:true
 KillAura:Keep Sprint:true
 KillAura:Teams:false
-KillAura:Max CPS:11.4
+KillAura:Max CPS:11.04
 KillAura:Event Mode:PRE
 KillAura:Players:true
 NoSlow:Mode:Vanilla
