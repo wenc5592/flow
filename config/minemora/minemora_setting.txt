@@ -14,7 +14,7 @@ ESP:Team:true
 PingSpoof:Wait:15
 Speed:Mode:SlowHop
 Criticals:Mode:Packet
-Criticals:HurtTime:9
+Criticals:HurtTime:7
 Tracers:Signs:false
 Tracers:Spawners:false
 Tracers:Chests:false
@@ -51,7 +51,7 @@ FastUse:Bow:false
 ChestStealer:Ignore:true
 ChestStealer:Close:true
 ChestStealer:Aura:false
-ChestStealer:Delay:25
+ChestStealer:Delay:105
 ChestStealer:Drop:false
 Fly:Speed:0.25
 Fly:Mode:Minemora
