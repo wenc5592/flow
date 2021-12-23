@@ -44,7 +44,7 @@ LongJump:Boost:3
 LongJump:Toggle:true
 LongJump:Mode:NCP
 AntiBots:Dead:true
-AntiBots:Mode:Advanced
+AntiBots:Mode:Hypixel
 FastUse:Ticks:12
 FastUse:Mode:Packet
 FastUse:Bow:false
@@ -52,7 +52,7 @@ ChestStealer:Ignore:true
 ChestStealer:Silent:false
 ChestStealer:Close:true
 ChestStealer:Aura:false
-ChestStealer:Delay:120
+ChestStealer:Delay:20
 ChestStealer:Drop:false
 Fly:Speed:0.25
 Fly:Mode:Motion
@@ -89,7 +89,7 @@ KillAura:Min CPS:9.0
 KillAura:Target HUD:true
 KillAura:Keep Sprint:true
 KillAura:Teams:false
-KillAura:Max CPS:11.0
+KillAura:Max CPS:10.0
 KillAura:Players:true
 NoSlow:Mode:NCP
 AutoPot:Predict:false
