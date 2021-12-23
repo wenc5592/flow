@@ -1,0 +1,124 @@
+Animations:Animation:1.7
+AntiVoid:Mode:Motion
+AntiVoid:Void:true
+AntiVoid:Distance:5
+InvManager:Clean Food:false
+InvManager:Sword:true
+InvManager:Block Cap:128
+InvManager:Clean Archery:false
+InvManager:OpenInv:true
+InvManager:Delay:200
+Timer:Timer Speed:0.3
+ESP:Mode:Outline
+ESP:Team:false
+PingSpoof:Wait:15
+Speed:Mode:NCP
+Criticals:Mode:Packet
+Criticals:HurtTime:15
+Tracers:Signs:false
+Tracers:Spawners:false
+Tracers:Chests:false
+Tracers:Players:true
+AutoClicker:On Mouse:true
+AutoClicker:Random:true
+AutoClicker:Min Random:50
+AutoClicker:Delay:100
+AutoClicker:Max Random:100
+AimAssist:FOV Yaw:45
+AimAssist:FOV Pitch:25
+AimAssist:V Speed:15
+AimAssist:Random H:0
+AimAssist:Range:4.5
+AimAssist:Weapon:true
+AimAssist:Random V:0
+AimAssist:H Speed:20
+Scaffold:Block Mode:Spoof
+Scaffold:SafeWalk:true
+Scaffold:Timer:1
+Scaffold:Mode:Normal
+Scaffold:Tower:true
+Scaffold:Sprint:false
+NoFall:Mode:Packet
+FreeCam:Speed:1.0
+LongJump:Boost:3
+LongJump:Toggle:true
+LongJump:Mode:NCP
+AntiBots:Dead:true
+AntiBots:Mode:Advanced
+FastUse:Ticks:12
+FastUse:Mode:Packet
+FastUse:Bow:false
+ChestStealer:Ignore:true
+ChestStealer:Silent:false
+ChestStealer:Close:true
+ChestStealer:Aura:false
+ChestStealer:Delay:120
+ChestStealer:Drop:false
+Fly:Speed:0.25
+Fly:Mode:Motion
+Fly:Damage:Off
+AutoSoup:Health:3
+AutoSoup:Delay:350
+AutoSoup:Drop:false
+Xray:Cave:false
+Xray:Opacity:160
+Velocity:Vertical:0
+Velocity:Horizontal:0
+Velocity:Mode:Simple
+FastPlace:Click Speed:4
+Commands:Chat Prefix:.
+HUD:Red:255.0
+HUD:Blue:255.0
+HUD:Rainbow:false
+HUD:Mode:Flux
+HUD:Green:116.0
+NameTags:Invisibles:false
+NameTags:Armor:true
+AutoArmor:OpenInv:true
+AutoArmor:Delay:200
+InvMove:Carry:false
+KillAura:Others:true
+KillAura:Invisibles:true
+KillAura:Auto Block:NCP
+KillAura:Priority:Range
+KillAura:Mode:Single
+KillAura:Disable on Death:true
+KillAura:FOV:300.0
+KillAura:Range:3.7
+KillAura:Min CPS:9.0
+KillAura:Target HUD:true
+KillAura:Keep Sprint:true
+KillAura:Teams:false
+KillAura:Max CPS:11.0
+KillAura:Players:true
+NoSlow:Mode:NCP
+AutoPot:Predict:false
+AutoPot:Speed:false
+AutoPot:Health:5
+AutoPot:Jump:false
+AutoPot:Overpot:true
+AutoPot:Delay:350
+AutoPot:Regen:false
+TabGUI:ToolTops:true
+Session:Kills:false
+Session:Time:false
+Session:Flags:true
+Phase:Mode:NCP
+Phase:Distance:2
+Blink:Fly:false
+Blink:Breadcrumbs:true
+NameProtect:Hide Tab List:false
+NameProtect:Scramble Players:false
+NameProtect:Hide Scoreboard:false
+NameProtect:Name Protect:true
+NameProtect:Spoof Skins:false
+ClickGUI:Mode:Flow
+AutoEat:Food Level:8.5
+KillSults:Mode:Hypixel
+KillSults:Spanish:false
+KillSults:Advertise:true
+GamePlay:Auto GG:true
+GamePlay:Auto Join:true
+GamePlay:Mode:Hypixel
+GamePlay:Auto Play:true
+Disabler:Mode:Verus
