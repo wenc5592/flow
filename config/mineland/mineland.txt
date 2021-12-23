@@ -51,7 +51,7 @@ ClickGUI:false:54:false
 AutoEat:false:0:false
 NoHurtCam:false:0:false
 MCF:false:0:false
-KillSults:false:0:false
+KillSults:true:0:false
 GamePlay:false:0:false
 Disabler:false:38:false
 TargetStrafe:false:0:false
