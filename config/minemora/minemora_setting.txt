@@ -1,20 +1,20 @@
-Animations:Animation:1.7
+Animations:Animation:Flow
 AntiVoid:Mode:Motion
 AntiVoid:Void:true
 AntiVoid:Distance:5
 InvManager:Clean Food:false
 InvManager:Sword:true
-InvManager:Block Cap:128
+InvManager:Block Cap:256.0
 InvManager:Clean Archery:false
 InvManager:OpenInv:true
-InvManager:Delay:200
+InvManager:Delay:76.79245283018868
 Timer:Timer Speed:0.3
 ESP:Mode:Outline
-ESP:Team:false
+ESP:Team:true
 PingSpoof:Wait:15
-Speed:Mode:NCP
+Speed:Mode:SlowHop
 Criticals:Mode:Packet
-Criticals:HurtTime:15
+Criticals:HurtTime:7
 Tracers:Signs:false
 Tracers:Spawners:false
 Tracers:Chests:false
@@ -35,7 +35,7 @@ AimAssist:H Speed:20
 Scaffold:Block Mode:Spoof
 Scaffold:SafeWalk:true
 Scaffold:Timer:1
-Scaffold:Mode:Normal
+Scaffold:Mode:Packet
 Scaffold:Tower:true
 Scaffold:Sprint:false
 NoFall:Mode:Packet
@@ -43,20 +43,18 @@ FreeCam:Speed:1.0
 LongJump:Boost:3
 LongJump:Toggle:true
 LongJump:Mode:NCP
-AntiBots:Dead:true
-AntiBots:Mode:Hypixel
+AntiBot:Dead:true
+AntiBot:Mode:Hypixel
 FastUse:Ticks:12
 FastUse:Mode:Packet
 FastUse:Bow:false
 ChestStealer:Ignore:true
-ChestStealer:Silent:false
 ChestStealer:Close:true
 ChestStealer:Aura:false
-ChestStealer:Delay:20
+ChestStealer:Delay:105
 ChestStealer:Drop:false
 Fly:Speed:0.25
-Fly:Mode:Motion
-Fly:Damage:Off
+Fly:Mode:Minemora
 AutoSoup:Health:3
 AutoSoup:Delay:350
 AutoSoup:Drop:false
@@ -67,43 +65,37 @@ Velocity:Horizontal:0
 Velocity:Mode:Simple
 FastPlace:Click Speed:4
 Commands:Chat Prefix:.
-HUD:Red:255.0
-HUD:Blue:255.0
-HUD:Rainbow:false
-HUD:Mode:Flux
-HUD:Green:116.0
-NameTags:Invisibles:false
-NameTags:Armor:true
-AutoArmor:OpenInv:true
-AutoArmor:Delay:200
+HUD:Potions:true
+NameTags:Invisibles:true
+NameTags:Armor:false
+AutoArmor:OpenInv:false
+AutoArmor:Delay:25
 InvMove:Carry:false
 KillAura:Others:true
 KillAura:Invisibles:true
-KillAura:Auto Block:NCP
+KillAura:Auto Block:Vanilla
 KillAura:Priority:Range
-KillAura:Mode:Single
+KillAura:Mode:Vanilla
 KillAura:Disable on Death:true
-KillAura:FOV:300.0
-KillAura:Range:3.7
-KillAura:Min CPS:9.0
+KillAura:FOV:160
+KillAura:Range:5.2
+KillAura:Min CPS:9
 KillAura:Target HUD:true
 KillAura:Keep Sprint:true
 KillAura:Teams:false
-KillAura:Max CPS:10.0
+KillAura:Max CPS:12
+KillAura:Event Mode:PRE
 KillAura:Players:true
-NoSlow:Mode:NCP
-AutoPot:Predict:false
-AutoPot:Speed:false
-AutoPot:Health:5
+NoSlow:Mode:Vanilla
+AutoPot:Predict:true
+AutoPot:Speed:true
+AutoPot:Health:4.5
 AutoPot:Jump:false
-AutoPot:Overpot:true
+AutoPot:Overpot:false
 AutoPot:Delay:350
-AutoPot:Regen:false
+AutoPot:Regen:true
 TabGUI:ToolTops:true
-Session:Kills:false
-Session:Time:false
-Session:Flags:true
-Phase:Mode:NCP
+Phase:Mode:Clip
 Phase:Distance:2
 Blink:Fly:false
 Blink:Breadcrumbs:true
@@ -112,13 +104,12 @@ NameProtect:Scramble Players:false
 NameProtect:Hide Scoreboard:false
 NameProtect:Name Protect:true
 NameProtect:Spoof Skins:false
-ClickGUI:Mode:Flow
 AutoEat:Food Level:8.5
-KillSults:Mode:Hypixel
-KillSults:Spanish:false
+KillSults:Mode:Minemora
+KillSults:Spanish:true
 KillSults:Advertise:true
 GamePlay:Auto GG:true
 GamePlay:Auto Join:true
-GamePlay:Mode:Hypixel
+GamePlay:Mode:Minemora
 GamePlay:Auto Play:true
-Disabler:Mode:Verus
+Disabler:Mode:VerusCombat
