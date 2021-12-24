@@ -1,18 +1,20 @@
-Animations:Animation:1.7
+Animations:Animation:Cut
 AntiVoid:Mode:Motion
 AntiVoid:Void:true
 AntiVoid:Distance:5
+InvManager:Auto Sword:true
+InvManager:Chean Archery:true
 InvManager:Clean Food:false
-InvManager:Sword:true
-InvManager:Block Cap:128
-InvManager:Clean Archery:false
-InvManager:OpenInv:true
-InvManager:Delay:200
+InvManager:Clean Inventory:true
+InvManager:Block Cap:288.0
+InvManager:Mode:OpenInv
+InvManager:Delay:3.0
 Timer:Timer Speed:0.3
 ESP:Mode:Outline
 ESP:Team:false
 PingSpoof:Wait:15
 Speed:Mode:NCP
+Speed:Lag Back:true
 Criticals:Mode:Packet
 Criticals:HurtTime:15
 Tracers:Signs:false
@@ -32,27 +34,34 @@ AimAssist:Range:4.5
 AimAssist:Weapon:true
 AimAssist:Random V:0
 AimAssist:H Speed:20
-Scaffold:Block Mode:Spoof
-Scaffold:SafeWalk:true
-Scaffold:Timer:1
-Scaffold:Mode:Normal
+Scaffold:ESP:false
+Scaffold:Mode:AAC
+Scaffold:Tower Mode:Normal
+Scaffold:No Swing:false
+Scaffold:Delay:100
+Scaffold:Rotations:false
+Scaffold:AAC Tower:0.4
+Scaffold:Same Y:false
+Scaffold:Legit Speed:1
+Scaffold:Expand:0.0
+Scaffold:Block Picker:true
 Scaffold:Tower:true
-Scaffold:Sprint:false
+Scaffold:Tower Move:true
 NoFall:Mode:Packet
 FreeCam:Speed:1.0
 LongJump:Boost:3
 LongJump:Toggle:true
 LongJump:Mode:NCP
 AntiBots:Dead:true
-AntiBots:Mode:Hypixel
+AntiBots:Mode:Advanced
 FastUse:Ticks:12
 FastUse:Mode:Packet
 FastUse:Bow:false
 ChestStealer:Ignore:true
-ChestStealer:Silent:false
+ChestStealer:Silent:true
 ChestStealer:Close:true
 ChestStealer:Aura:false
-ChestStealer:Delay:20
+ChestStealer:Delay:150.0
 ChestStealer:Drop:false
 Fly:Speed:0.25
 Fly:Mode:Motion
@@ -70,26 +79,32 @@ Commands:Chat Prefix:.
 HUD:Red:255.0
 HUD:Blue:255.0
 HUD:Rainbow:false
-HUD:Mode:Flux
-HUD:Green:116.0
+HUD:Mode:Flow
+HUD:Green:255.0
 NameTags:Invisibles:false
-NameTags:Armor:true
-AutoArmor:OpenInv:true
-AutoArmor:Delay:200
+NameTags:Armor:false
+AutoArmor:Mode:Basic
+AutoArmor:Delay:3.0
 InvMove:Carry:false
 KillAura:Others:true
+KillAura:Auto Block Mode:NCP
 KillAura:Invisibles:true
-KillAura:Auto Block:NCP
+KillAura:ESP:false
+KillAura:Hit Chance:100.0
+KillAura:Interact Auto Block:false
+KillAura:Auto Block:true
+KillAura:Rotation Mode:Basic
 KillAura:Priority:Range
-KillAura:Mode:Single
+KillAura:Mode:Switch
 KillAura:Disable on Death:true
-KillAura:FOV:300.0
-KillAura:Range:3.7
+KillAura:Range:4.5
 KillAura:Min CPS:9.0
+KillAura:Type:Pre
 KillAura:Target HUD:true
-KillAura:Keep Sprint:true
+KillAura:Block Range:4.5
 KillAura:Teams:false
-KillAura:Max CPS:10.0
+KillAura:Max CPS:12.0
+KillAura:Walls:true
 KillAura:Players:true
 NoSlow:Mode:NCP
 AutoPot:Predict:false
@@ -114,9 +129,9 @@ NameProtect:Name Protect:true
 NameProtect:Spoof Skins:false
 ClickGUI:Mode:Flow
 AutoEat:Food Level:8.5
-KillSults:Mode:Hypixel
+KillSults:Mode:Mineland
 KillSults:Spanish:false
-KillSults:Advertise:true
+KillSults:Advertise:false
 GamePlay:Auto GG:true
 GamePlay:Auto Join:true
 GamePlay:Mode:Hypixel
