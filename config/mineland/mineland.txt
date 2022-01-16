@@ -6,10 +6,10 @@ Step:false:0:false
 Teleport:false:0:false
 ESP:true:0:false
 PingSpoof:false:0:false
-Speed:false:45:false
+Speed:true:45:false
 Criticals:false:0:false
 SpeedMine:true:0:false
-Fullbright:true:0:false
+Fullbright:false:0:false
 BowAimbot:false:0:false
 Tracers:false:0:false
 AutoClicker:false:0:false
@@ -51,7 +51,7 @@ ClickGUI:false:54:false
 AutoEat:false:0:false
 NoHurtCam:false:0:false
 MCF:false:0:false
-KillSults:false:0:false
+KillSults:true:0:false
 GamePlay:false:0:false
 Disabler:false:38:false
 TargetStrafe:false:0:false
