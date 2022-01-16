@@ -1,9 +1,12 @@
-Animations:Animation:Cut
+Animations:Equip:false
+Animations:Speed:0.4
+Animations:Animation:Exhibition
+Animations:Scale:0.7
 AntiVoid:Mode:Motion
 AntiVoid:Void:true
-AntiVoid:Distance:5
+AntiVoid:Distance:4.0
 InvManager:Auto Sword:true
-InvManager:Chean Archery:true
+InvManager:Chean Archery:false
 InvManager:Clean Food:false
 InvManager:Clean Inventory:true
 InvManager:Block Cap:288.0
@@ -35,21 +38,21 @@ AimAssist:Weapon:true
 AimAssist:Random V:0
 AimAssist:H Speed:20
 Scaffold:ESP:false
-Scaffold:Mode:AAC
-Scaffold:Tower Mode:Normal
+Scaffold:Mode:Hypixel
+Scaffold:Tower Mode:Hypixel
 Scaffold:No Swing:false
 Scaffold:Delay:100
 Scaffold:Rotations:false
 Scaffold:AAC Tower:0.4
 Scaffold:Same Y:false
 Scaffold:Legit Speed:1
-Scaffold:Expand:0.0
+Scaffold:Expand:2.2
 Scaffold:Block Picker:true
 Scaffold:Tower:true
 Scaffold:Tower Move:true
 NoFall:Mode:Packet
 FreeCam:Speed:1.0
-LongJump:Boost:3
+LongJump:Boost:1.7
 LongJump:Toggle:true
 LongJump:Mode:NCP
 AntiBots:Dead:true
@@ -63,8 +66,8 @@ ChestStealer:Close:true
 ChestStealer:Aura:false
 ChestStealer:Delay:150.0
 ChestStealer:Drop:false
-Fly:Speed:0.25
-Fly:Mode:Motion
+Fly:Speed:3.25
+Fly:Mode:NCP
 Fly:Damage:Off
 AutoSoup:Health:3
 AutoSoup:Delay:350
@@ -73,15 +76,15 @@ Xray:Cave:false
 Xray:Opacity:160
 Velocity:Vertical:0
 Velocity:Horizontal:0
-Velocity:Mode:Simple
+Velocity:Mode:Normal
 FastPlace:Click Speed:4
 Commands:Chat Prefix:.
-HUD:Red:255.0
-HUD:Blue:255.0
+HUD:Red:229.0
+HUD:Blue:57.0
 HUD:Rainbow:false
-HUD:Mode:Flow
-HUD:Green:255.0
-NameTags:Invisibles:false
+HUD:Mode:Flux
+HUD:Green:65.0
+NameTags:Invisibles:true
 NameTags:Armor:false
 AutoArmor:Mode:Basic
 AutoArmor:Delay:3.0
@@ -97,13 +100,13 @@ KillAura:Rotation Mode:Basic
 KillAura:Priority:Range
 KillAura:Mode:Switch
 KillAura:Disable on Death:true
-KillAura:Range:4.5
-KillAura:Min CPS:9.0
+KillAura:Range:5.9
+KillAura:Min CPS:7.0
 KillAura:Type:Pre
 KillAura:Target HUD:true
-KillAura:Block Range:4.5
+KillAura:Block Range:7.45
 KillAura:Teams:false
-KillAura:Max CPS:12.0
+KillAura:Max CPS:10.0
 KillAura:Walls:true
 KillAura:Players:true
 NoSlow:Mode:NCP
@@ -129,6 +132,7 @@ NameProtect:Name Protect:true
 NameProtect:Spoof Skins:false
 ClickGUI:Mode:Flow
 AutoEat:Food Level:8.5
+KillSults:Report:false
 KillSults:Mode:Mineland
 KillSults:Spanish:false
 KillSults:Advertise:false
@@ -137,3 +141,6 @@ GamePlay:Auto Join:true
 GamePlay:Mode:Hypixel
 GamePlay:Auto Play:true
 Disabler:Mode:Verus
+TargetStrafe:Mode:Motion
+TargetStrafe:Void:true
+TargetStrafe:Distance:5
