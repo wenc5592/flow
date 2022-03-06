@@ -1,21 +1,22 @@
 Animations:Equip:false
-Animations:Speed:0.4
-Animations:Animation:Exhibition
-Animations:Scale:0.7
+Animations:Speed:0.0
+Animations:Animation:1.7
+Animations:Scale:0.5
 AntiVoid:Mode:Motion
 AntiVoid:Void:true
 AntiVoid:Distance:4.0
 InvManager:Auto Sword:true
-InvManager:Chean Archery:false
 InvManager:Clean Food:false
 InvManager:Clean Inventory:true
 InvManager:Block Cap:288.0
+InvManager:Clean Archery:false
 InvManager:Mode:OpenInv
 InvManager:Delay:3.0
-Timer:Timer Speed:0.3
+Timer:Timer Speed:1.8
 ESP:Mode:Outline
 ESP:Team:false
 PingSpoof:Wait:15
+Speed:Timer:1.0
 Speed:Mode:NCP
 Speed:Lag Back:true
 Criticals:Mode:Packet
@@ -52,11 +53,15 @@ Scaffold:Tower:true
 Scaffold:Tower Move:true
 NoFall:Mode:Packet
 FreeCam:Speed:1.0
-LongJump:Boost:1.7
+LongJump:Timer:0.4
+LongJump:Boost:3.1
 LongJump:Toggle:true
 LongJump:Mode:NCP
+LongJump:Blink:false
+LongJump:Damage:true
 AntiBots:Dead:true
 AntiBots:Mode:Advanced
+AntiBots:Info:false
 FastUse:Ticks:12
 FastUse:Mode:Packet
 FastUse:Bow:false
@@ -66,7 +71,8 @@ ChestStealer:Close:true
 ChestStealer:Aura:false
 ChestStealer:Delay:150.0
 ChestStealer:Drop:false
-Fly:Speed:3.25
+Fly:Speed:0.25
+Fly:Timer:1.0
 Fly:Mode:NCP
 Fly:Damage:Off
 AutoSoup:Health:3
@@ -80,10 +86,10 @@ Velocity:Mode:Normal
 FastPlace:Click Speed:4
 Commands:Chat Prefix:.
 HUD:Red:229.0
-HUD:Blue:57.0
-HUD:Rainbow:false
-HUD:Mode:Flux
-HUD:Green:65.0
+HUD:Blue:50.0
+HUD:Mode:Monsoon
+HUD:Color Mode:Static
+HUD:Green:31.0
 NameTags:Invisibles:true
 NameTags:Armor:false
 AutoArmor:Mode:Basic
@@ -100,13 +106,13 @@ KillAura:Rotation Mode:Basic
 KillAura:Priority:Range
 KillAura:Mode:Switch
 KillAura:Disable on Death:true
-KillAura:Range:5.9
-KillAura:Min CPS:7.0
+KillAura:Range:6.05
+KillAura:Min CPS:10.0
 KillAura:Type:Pre
 KillAura:Target HUD:true
 KillAura:Block Range:7.45
 KillAura:Teams:false
-KillAura:Max CPS:10.0
+KillAura:Max CPS:8.0
 KillAura:Walls:true
 KillAura:Players:true
 NoSlow:Mode:NCP
