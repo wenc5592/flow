@@ -1,8 +1,8 @@
 Animations:Equip:false
 Animations:Speed:0.4
-Animations:Animation:Slide
+Animations:Animation:Flow
 Animations:Scale:0.5
-AntiVoid:Mode:Motion
+AntiVoid:Mode:Invalid
 AntiVoid:Void:true
 AntiVoid:Distance:5
 InvManager:Auto Sword:true
@@ -16,7 +16,8 @@ Timer:Timer Speed:0.3
 ESP:Mode:Outline
 ESP:Team:true
 PingSpoof:Wait:15
-Speed:Mode:NCP
+Speed:Timer:1.0
+Speed:Mode:Slow
 Speed:Lag Back:false
 Criticals:Mode:Packet
 Criticals:HurtTime:7
@@ -40,7 +41,7 @@ AimAssist:H Speed:20
 Scaffold:ESP:false
 Scaffold:Mode:Hypixel
 Scaffold:Tower Mode:AAC
-Scaffold:No Swing:false
+Scaffold:No Swing:true
 Scaffold:Delay:100
 Scaffold:Rotations:false
 Scaffold:AAC Tower:0.2
@@ -49,12 +50,16 @@ Scaffold:Legit Speed:1
 Scaffold:Expand:0.0
 Scaffold:Block Picker:true
 Scaffold:Tower:false
+Scaffold:Sprint:false
 Scaffold:Tower Move:false
 NoFall:Mode:Packet
 FreeCam:Speed:1.0
+LongJump:Timer:0.4
 LongJump:Boost:3
 LongJump:Toggle:true
 LongJump:Mode:NCP
+LongJump:Blink:false
+LongJump:Damage:true
 AntiBots:Dead:true
 AntiBots:Mode:Advanced
 AntiBots:Info:true
@@ -67,8 +72,8 @@ ChestStealer:Close:true
 ChestStealer:Aura:false
 ChestStealer:Delay:105
 ChestStealer:Drop:false
-Fly:Speed:0.25
-Fly:Mode:Step
+Fly:Speed:3.5
+Fly:Mode:Motion
 Fly:Damage:Off
 AutoSoup:Health:3
 AutoSoup:Delay:350
@@ -82,9 +87,10 @@ FastPlace:Click Speed:4
 Commands:Chat Prefix:.
 HUD:Red:218.0
 HUD:Blue:31.0
-HUD:Rainbow:true
-HUD:Mode:Flow
+HUD:Mode:Monsoon
+HUD:Color Mode:Rainbow
 HUD:Green:61.0
+HUD:Rotations:true
 NameTags:Invisibles:true
 NameTags:Armor:false
 AutoArmor:Mode:Basic
@@ -97,7 +103,7 @@ KillAura:ESP:false
 KillAura:Hit Chance:100.0
 KillAura:Interact Auto Block:false
 KillAura:Auto Block:true
-KillAura:Rotation Mode:Smooth
+KillAura:Rotation Mode:Basic
 KillAura:Priority:Range
 KillAura:Mode:Single
 KillAura:Disable on Death:true
@@ -110,7 +116,24 @@ KillAura:Teams:false
 KillAura:Max CPS:5.0
 KillAura:Walls:true
 KillAura:Players:true
-NoSlow:Mode:AAC
+KillAuraNewEdition:Yaw Offset:0.0
+KillAuraNewEdition:Attack Player:true
+KillAuraNewEdition:Switch Size:3.0
+KillAuraNewEdition:Auto Block:true
+KillAuraNewEdition:APS:10.0
+KillAuraNewEdition:Priority:Range
+KillAuraNewEdition:Auto Disable:false
+KillAuraNewEdition:Range:4.5
+KillAuraNewEdition:FOV:360.0
+KillAuraNewEdition:Block Through Wall:true
+KillAuraNewEdition:Rotation Speed:120.0
+KillAuraNewEdition:Block Range:2.0
+KillAuraNewEdition:Attack Mob:true
+KillAuraNewEdition:Switch Delay:1000.0
+KillAuraNewEdition:Attack Invisible:true
+KillAuraNewEdition:Pitch Offset:0.0
+KillAuraNewEdition:Instant Rotate:true
+NoSlow:Mode:NCP
 AutoPot:Predict:true
 AutoPot:Speed:true
 AutoPot:Health:4.5
