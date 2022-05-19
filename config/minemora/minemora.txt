@@ -22,7 +22,7 @@ LongJump:false:34:false
 AntiBots:false:0:false
 Jesus:false:0:false
 FastUse:false:0:false
-ChestStealer:false:35:false
+ChestStealer:true:35:false
 Fly:false:33:false
 AutoSoup:false:0:false
 ChestESP:true:0:false
@@ -46,13 +46,13 @@ Session:false:0:false
 Phase:false:49:false
 BedNuker:false:0:false
 Unstuck:false:0:false
-Blink:false:33:false
+Blink:false:0:false
 NameProtect:false:0:false
 ClickGUI:false:54:false
 AutoEat:false:0:false
 NoHurtCam:false:0:false
 MCF:false:0:false
-KillSults:false:0:false
-GamePlay:false:0:false
+KillSults:true:0:false
+GamePlay:true:0:false
 Disabler:false:38:false
 TargetStrafe:false:0:false
