@@ -1,6 +1,6 @@
 Animations:Equip:false
-Animations:Speed:0.4
-Animations:Animation:Flow
+Animations:Speed:0.7
+Animations:Animation:Swong
 Animations:Scale:0.5
 AntiVoid:Mode:Invalid
 AntiVoid:Void:true
@@ -45,7 +45,7 @@ Scaffold:No Swing:true
 Scaffold:Delay:100
 Scaffold:Rotations:false
 Scaffold:AAC Tower:0.2
-Scaffold:Same Y:false
+Scaffold:Same Y:true
 Scaffold:Legit Speed:1
 Scaffold:Expand:0.0
 Scaffold:Block Picker:true
@@ -72,8 +72,8 @@ ChestStealer:Close:true
 ChestStealer:Aura:false
 ChestStealer:Delay:105
 ChestStealer:Drop:false
-Fly:Speed:3.5
-Fly:Mode:Motion
+Fly:Speed:0.25
+Fly:Mode:Step
 Fly:Damage:Off
 AutoSoup:Health:3
 AutoSoup:Delay:350
@@ -85,36 +85,36 @@ Velocity:Horizontal:0
 Velocity:Mode:Normal
 FastPlace:Click Speed:4
 Commands:Chat Prefix:.
-HUD:Red:218.0
-HUD:Blue:31.0
-HUD:Mode:Monsoon
-HUD:Color Mode:Rainbow
-HUD:Green:61.0
+HUD:Red:255.0
+HUD:Blue:255.0
+HUD:Mode:Flow
+HUD:Color Mode:Static
+HUD:Green:255.0
 HUD:Rotations:true
 NameTags:Invisibles:true
 NameTags:Armor:false
 AutoArmor:Mode:Basic
 AutoArmor:Delay:2.0
 InvMove:Carry:false
-KillAura:Others:true
-KillAura:Auto Block Mode:NCP
+KillAura:Others:false
+KillAura:Auto Block Mode:Basic1
 KillAura:Invisibles:false
 KillAura:ESP:false
 KillAura:Hit Chance:100.0
 KillAura:Interact Auto Block:false
 KillAura:Auto Block:true
-KillAura:Rotation Mode:Basic
-KillAura:Priority:Range
+KillAura:Rotation Mode:Smooth
+KillAura:Priority:Angle
 KillAura:Mode:Single
 KillAura:Disable on Death:true
-KillAura:Range:5.9
-KillAura:Min CPS:5.0
+KillAura:Range:6.0
+KillAura:Min CPS:3.0
 KillAura:Type:Pre
 KillAura:Target HUD:true
-KillAura:Block Range:7.45
+KillAura:Block Range:6.65
 KillAura:Teams:false
-KillAura:Max CPS:5.0
-KillAura:Walls:true
+KillAura:Max CPS:6.0
+KillAura:Walls:false
 KillAura:Players:true
 KillAuraNewEdition:Yaw Offset:0.0
 KillAuraNewEdition:Attack Player:true
