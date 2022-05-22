@@ -1,6 +1,6 @@
 Animations:Equip:false
-Animations:Speed:0.7
-Animations:Animation:Swong
+Animations:Speed:0.0
+Animations:Animation:Swank
 Animations:Scale:0.5
 AntiVoid:Mode:Invalid
 AntiVoid:Void:true
@@ -11,7 +11,7 @@ InvManager:Clean Inventory:true
 InvManager:Block Cap:256.0
 InvManager:Clean Archery:false
 InvManager:Mode:OpenInv
-InvManager:Delay:2.0
+InvManager:Delay:5.0
 Timer:Timer Speed:0.3
 ESP:Mode:Outline
 ESP:Team:true
@@ -20,7 +20,7 @@ Speed:Timer:1.0
 Speed:Mode:Slow
 Speed:Lag Back:false
 Criticals:Mode:Packet
-Criticals:HurtTime:7
+Criticals:HurtTime:7.0
 Tracers:Signs:false
 Tracers:Spawners:false
 Tracers:Chests:false
@@ -48,7 +48,7 @@ Scaffold:AAC Tower:0.2
 Scaffold:Same Y:true
 Scaffold:Legit Speed:1
 Scaffold:Expand:0.0
-Scaffold:Block Picker:true
+Scaffold:Block Picker:false
 Scaffold:Tower:false
 Scaffold:Sprint:false
 Scaffold:Tower Move:false
@@ -80,59 +80,42 @@ AutoSoup:Delay:350
 AutoSoup:Drop:false
 Xray:Cave:false
 Xray:Opacity:160
-Velocity:Vertical:0
-Velocity:Horizontal:0
+Velocity:Vertical:0.0
+Velocity:Horizontal:0.0
 Velocity:Mode:Normal
 FastPlace:Click Speed:4
 Commands:Chat Prefix:.
-HUD:Red:255.0
+HUD:Red:102.0
 HUD:Blue:255.0
-HUD:Mode:Flow
-HUD:Color Mode:Static
-HUD:Green:255.0
+HUD:Mode:Monsoon
+HUD:Color Mode:Rainbow
+HUD:Green:177.0
 HUD:Rotations:true
 NameTags:Invisibles:true
 NameTags:Armor:false
-AutoArmor:Mode:Basic
-AutoArmor:Delay:2.0
+AutoArmor:Mode:OpenInv
+AutoArmor:Delay:5.0
 InvMove:Carry:false
 KillAura:Others:false
-KillAura:Auto Block Mode:Basic1
+KillAura:Auto Block Mode:NCP
 KillAura:Invisibles:false
 KillAura:ESP:false
 KillAura:Hit Chance:100.0
 KillAura:Interact Auto Block:false
 KillAura:Auto Block:true
 KillAura:Rotation Mode:Smooth
-KillAura:Priority:Angle
-KillAura:Mode:Single
+KillAura:Priority:FOV
+KillAura:Mode:Switch
 KillAura:Disable on Death:true
-KillAura:Range:6.0
+KillAura:Range:4.9
 KillAura:Min CPS:3.0
 KillAura:Type:Pre
 KillAura:Target HUD:true
-KillAura:Block Range:6.65
+KillAura:Block Range:5.95
 KillAura:Teams:false
-KillAura:Max CPS:6.0
+KillAura:Max CPS:4.0
 KillAura:Walls:false
 KillAura:Players:true
-KillAuraNewEdition:Yaw Offset:0.0
-KillAuraNewEdition:Attack Player:true
-KillAuraNewEdition:Switch Size:3.0
-KillAuraNewEdition:Auto Block:true
-KillAuraNewEdition:APS:10.0
-KillAuraNewEdition:Priority:Range
-KillAuraNewEdition:Auto Disable:false
-KillAuraNewEdition:Range:4.5
-KillAuraNewEdition:FOV:360.0
-KillAuraNewEdition:Block Through Wall:true
-KillAuraNewEdition:Rotation Speed:120.0
-KillAuraNewEdition:Block Range:2.0
-KillAuraNewEdition:Attack Mob:true
-KillAuraNewEdition:Switch Delay:1000.0
-KillAuraNewEdition:Attack Invisible:true
-KillAuraNewEdition:Pitch Offset:0.0
-KillAuraNewEdition:Instant Rotate:true
 NoSlow:Mode:NCP
 AutoPot:Predict:true
 AutoPot:Speed:true
@@ -158,8 +141,10 @@ ClickGUI:Mode:Flow
 AutoEat:Food Level:8.5
 KillSults:Report:false
 KillSults:Mode:Minemora
-KillSults:Spanish:false
+KillSults:Spanish:true
 KillSults:Advertise:false
+Spammer:Random:true
+Spammer:Delay:10.0
 GamePlay:Auto GG:true
 GamePlay:Auto Join:true
 GamePlay:Mode:Minemora
