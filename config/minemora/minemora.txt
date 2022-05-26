@@ -1,7 +1,7 @@
 Animations:true:0:false
 AntiVoid:false:0:false
 InvManager:true:50:false
-Timer:false:47:false
+Timer:false:0:false
 Step:false:0:false
 Teleport:false:0:false
 ESP:true:0:false
@@ -10,7 +10,7 @@ Speed:false:45:false
 Criticals:true:0:false
 SpeedMine:false:0:false
 Fullbright:true:0:false
-BowAimbot:true:0:false
+BowAimbot:false:0:false
 Tracers:false:0:false
 AutoClicker:false:0:false
 AimAssist:false:0:false
@@ -22,7 +22,7 @@ LongJump:false:34:false
 AntiBots:false:0:false
 Jesus:false:0:false
 FastUse:false:0:false
-ChestStealer:false:35:false
+ChestStealer:true:35:false
 Fly:false:33:false
 AutoSoup:false:0:false
 ChestESP:true:0:false
@@ -43,13 +43,13 @@ Chams:true:0:false
 TabGUI:false:0:false
 Session:false:0:false
 Phase:false:49:false
-BedNuker:false:0:false
+BedNuker:true:0:false
 Unstuck:false:0:false
 Blink:false:0:false
 NameProtect:false:0:false
 ClickGUI:false:54:false
 AutoEat:false:0:false
-NoHurtCam:true:0:false
+NoHurtCam:false:0:false
 MCF:false:0:false
 KillSults:true:0:false
 Spammer:false:0:false
