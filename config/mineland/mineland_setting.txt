@@ -1,7 +1,7 @@
 Animations:Equip:false
-Animations:Speed:0.0
-Animations:Animation:1.7
-Animations:Scale:0.5
+Animations:Speed:0.5
+Animations:Animation:Swank
+Animations:Scale:0.4
 AntiVoid:Mode:Motion
 AntiVoid:Void:true
 AntiVoid:Distance:4.0
@@ -39,26 +39,27 @@ AimAssist:Weapon:true
 AimAssist:Random V:0
 AimAssist:H Speed:20
 Scaffold:ESP:false
-Scaffold:Mode:Hypixel
+Scaffold:Mode:Custom
 Scaffold:Tower Mode:Hypixel
-Scaffold:No Swing:false
+Scaffold:No Swing:true
 Scaffold:Delay:100
-Scaffold:Rotations:false
+Scaffold:Rotations:true
 Scaffold:AAC Tower:0.4
-Scaffold:Same Y:false
+Scaffold:Same Y:true
 Scaffold:Legit Speed:1
-Scaffold:Expand:2.2
+Scaffold:Expand:0.0
 Scaffold:Block Picker:true
 Scaffold:Tower:true
+Scaffold:Sprint:true
 Scaffold:Tower Move:true
 NoFall:Mode:Packet
 FreeCam:Speed:1.0
-LongJump:Timer:0.4
-LongJump:Boost:3.1
+LongJump:Timer:0.55
+LongJump:Boost:1.8
 LongJump:Toggle:true
 LongJump:Mode:NCP
 LongJump:Blink:false
-LongJump:Damage:true
+LongJump:Damage:false
 AntiBots:Dead:true
 AntiBots:Mode:Advanced
 AntiBots:Info:false
@@ -71,9 +72,8 @@ ChestStealer:Close:true
 ChestStealer:Aura:false
 ChestStealer:Delay:150.0
 ChestStealer:Drop:false
-Fly:Speed:0.25
-Fly:Timer:1.0
-Fly:Mode:NCP
+Fly:Speed:4.0
+Fly:Mode:Motion
 Fly:Damage:Off
 AutoSoup:Health:3
 AutoSoup:Delay:350
@@ -89,7 +89,9 @@ HUD:Red:229.0
 HUD:Blue:50.0
 HUD:Mode:Monsoon
 HUD:Color Mode:Static
+HUD:Target HUD Mode:Vanilla
 HUD:Green:31.0
+HUD:Rotations:true
 NameTags:Invisibles:true
 NameTags:Armor:false
 AutoArmor:Mode:Basic
@@ -142,6 +144,8 @@ KillSults:Report:false
 KillSults:Mode:Mineland
 KillSults:Spanish:false
 KillSults:Advertise:false
+Spammer:Random:true
+Spammer:Delay:10.0
 GamePlay:Auto GG:true
 GamePlay:Auto Join:true
 GamePlay:Mode:Hypixel
