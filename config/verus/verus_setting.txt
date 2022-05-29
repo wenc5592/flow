@@ -1,18 +1,31 @@
+Animations:Equip:false
+Animations:Speed:-0.6
 Animations:Animation:Flow
-AntiVoid:Mode:VClip
+Animations:Scale:0.6
+HUD:Red:143.0
+HUD:Blue:235
+HUD:Mode:Flux
+HUD:Color Mode:Static
+HUD:Target HUD Mode:Vanilla
+HUD:Green:186
+HUD:Rotations:true
+AntiVoid:Mode:Teleport
 AntiVoid:Void:true
 AntiVoid:Distance:5
+InvManager:Auto Sword:true
 InvManager:Clean Food:false
-InvManager:Sword:true
+InvManager:Clean Inventory:true
 InvManager:Block Cap:256.0
 InvManager:Clean Archery:false
-InvManager:OpenInv:true
-InvManager:Delay:48.96
-Timer:Timer Speed:0.3
+InvManager:Mode:OpenInv
+InvManager:Delay:4.0
+Timer:Timer Speed:0.8
 ESP:Mode:Outline
 ESP:Team:true
 PingSpoof:Wait:15
-Speed:Mode:SlowHop
+Speed:Timer:1.0
+Speed:Mode:Slow
+Speed:Lag Back:false
 Criticals:Mode:Packet
 Criticals:HurtTime:7.9
 Tracers:Signs:false
@@ -32,19 +45,29 @@ AimAssist:Range:4.5
 AimAssist:Weapon:true
 AimAssist:Random V:0
 AimAssist:H Speed:20
-Scaffold:Block Mode:Switch
-Scaffold:SafeWalk:true
-Scaffold:Timer:1
-Scaffold:Mode:Packet
-Scaffold:Tower:false
+Scaffold:AAC Tower:0.2
+Scaffold:Same Y:true
+Scaffold:ESP:false
+Scaffold:Switch Mode:Switch
+Scaffold:Mode:Hypixel
+Scaffold:Expand:0.0
+Scaffold:Block Picker:false
+Scaffold:Tower:true
 Scaffold:Sprint:false
+Scaffold:Tower Mode:Hypixel
+Scaffold:No Swing:true
+Scaffold:Tower Move:true
 NoFall:Mode:Verus
 FreeCam:Speed:1.0
+LongJump:Timer:0.4
 LongJump:Boost:3
 LongJump:Toggle:true
 LongJump:Mode:Verus
-AntiBot:Dead:true
-AntiBot:Mode:Hypixel
+LongJump:Blink:false
+LongJump:Damage:false
+AntiBots:Dead:true
+AntiBots:Mode:Advanced
+AntiBots:Info:true
 FastUse:Ticks:12
 FastUse:Mode:Packet
 FastUse:Bow:false
@@ -52,10 +75,11 @@ ChestStealer:Ignore:true
 ChestStealer:Silent:true
 ChestStealer:Close:true
 ChestStealer:Aura:false
-ChestStealer:Delay:5.71
+ChestStealer:Delay:140.0
 ChestStealer:Drop:false
-Fly:Speed:3.03
-Fly:Mode:VerusFast
+Fly:Speed:0.25
+Fly:Mode:Jump
+Fly:Damage:Off
 AutoSoup:Health:3
 AutoSoup:Delay:350
 AutoSoup:Drop:false
@@ -66,30 +90,29 @@ Velocity:Horizontal:0
 Velocity:Mode:Simple
 FastPlace:Click Speed:4
 Commands:Chat Prefix:.
-HUD:Red:143.0
-HUD:Blue:235
-HUD:Rainbow:true
-HUD:Mode:Flow
-HUD:Green:186
 NameTags:Invisibles:true
 NameTags:Armor:false
-AutoArmor:OpenInv:true
-AutoArmor:Delay:71.2
-InvMove:Carry:false
-KillAura:Others:false
+AutoArmor:Mode:OpenInv
+AutoArmor:Delay:4.0
+KillAura:Others:true
+KillAura:Auto Block Mode:Vanilla
 KillAura:Invisibles:false
-KillAura:Auto Block:None
+KillAura:ESP:false
+KillAura:Hit Chance:100.0
+KillAura:Interact Auto Block:false
+KillAura:Auto Block:true
+KillAura:Rotation Mode:Smooth
 KillAura:Priority:Range
-KillAura:Mode:Vanilla
+KillAura:Mode:Switch
 KillAura:Disable on Death:true
-KillAura:FOV:250.05
-KillAura:Range:4.5
+KillAura:Range:4.2
 KillAura:Min CPS:9.1
+KillAura:Type:Pre
 KillAura:Target HUD:true
-KillAura:Keep Sprint:true
+KillAura:Block Range:5.95
 KillAura:Teams:false
 KillAura:Max CPS:11.04
-KillAura:Event Mode:PRE
+KillAura:Walls:true
 KillAura:Players:true
 NoSlow:Mode:Vanilla
 AutoPot:Predict:true
@@ -100,6 +123,9 @@ AutoPot:Overpot:false
 AutoPot:Delay:350
 AutoPot:Regen:true
 TabGUI:ToolTops:true
+Session:Kills:false
+Session:Time:false
+Session:Flags:true
 Phase:Mode:Clip
 Phase:Distance:2
 Blink:Fly:false
@@ -109,12 +135,16 @@ NameProtect:Scramble Players:false
 NameProtect:Hide Scoreboard:false
 NameProtect:Name Protect:true
 NameProtect:Spoof Skins:false
+ClickGUI:Mode:Flow
 AutoEat:Food Level:8.5
+KillSults:Report:false
 KillSults:Mode:BlocksMC
 KillSults:Spanish:false
 KillSults:Advertise:false
+Spammer:Random:true
+Spammer:Delay:10.0
 GamePlay:Auto GG:true
 GamePlay:Auto Join:true
 GamePlay:Mode:BlocksMC
 GamePlay:Auto Play:true
-Disabler:Mode:VerusCombat
+Disabler:Mode:Verus
