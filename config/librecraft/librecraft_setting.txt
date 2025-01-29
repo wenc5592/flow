@@ -1,15 +1,21 @@
 Animations:Equip:false
-Animations:Speed:-0.3
+Animations:Speed:0.0
 Animations:Animation:Flow
-Animations:Scale:0.6
-HUD:Red:255.0
+Animations:Scale:0.8
+HUD:Background:false
 HUD:Blue:255.0
-HUD:Saturation:0.75
-HUD:Mode:Flow
-HUD:Color Mode:Rainbow
-HUD:Target HUD Mode:Vanilla
-HUD:Green:255.0
+HUD:Saturation:0.5
+HUD:Color Mode:Flow
+HUD:Title:flowsense
+HUD:Spacing:Dash
+HUD:Font:Flow
 HUD:Rotations:true
+HUD:Red:255.0
+HUD:Lowercase:true
+HUD:Target HUD Mode:Flow
+HUD:Height:11.0
+HUD:Opacity:124.0
+HUD:Green:255.0
 AntiVoid:Mode:Teleport
 AntiVoid:Void:true
 AntiVoid:Distance:5
@@ -21,10 +27,10 @@ InvManager:Clean Archery:false
 InvManager:Mode:OpenInv
 InvManager:Attacking:false
 InvManager:Delay:1.0
-Timer:Timer Speed:0.85
+Timer:Timer Speed:1.1
 ESP:Mode:Outline
 ESP:Team:true
-PingSpoof:Wait:8.0
+PingSpoof:Wait:7.0
 Speed:Timer:1.0
 Speed:Mode:Verus
 Speed:Lag Back:true
@@ -64,24 +70,24 @@ FreeCam:Speed:1.0
 LongJump:Timer:1.0
 LongJump:Boost:2.8
 LongJump:Toggle:true
-LongJump:Mode:Verus
+LongJump:Mode:NCP
 LongJump:Blink:false
 LongJump:Damage:false
 AntiBots:Dead:true
 AntiBots:Mode:Basic
 AntiBots:Info:true
-FastUse:Ticks:12
+FastUse:Ticks:20.0
 FastUse:Mode:Packet
 FastUse:Bow:false
 ChestStealer:Ignore:true
 ChestStealer:Silent:true
 ChestStealer:Close:true
 ChestStealer:Aura:false
-ChestStealer:Delay:40.0
+ChestStealer:Delay:50.0
 ChestStealer:Drop:false
-Fly:Speed:1.5
-Fly:Mode:Jump
-Fly:Damage:Packet
+Fly:Speed:1.0
+Fly:Mode:Motion
+Fly:Damage:Off
 AutoSoup:Health:3
 AutoSoup:Delay:350
 AutoSoup:Drop:false
@@ -97,6 +103,10 @@ NameTags:Armor:false
 AutoArmor:Mode:OpenInv
 AutoArmor:Delay:1.0
 InvMove:Mode:AACP
+Crosshair:Dynamic:false
+Crosshair:Size:8.5
+Crosshair:Gap:1.75
+Crosshair:Width:0.5
 KillAura:Others:true
 KillAura:Auto Block Mode:Vanilla
 KillAura:Invisibles:false
@@ -142,7 +152,7 @@ NameProtect:Spoof Skins:false
 ClickGUI:Mode:Flow
 ClickGUI:Theme:Light
 AutoEat:Food Level:8.5
-KillSults:Mode:Spanish
+KillSults:Mode:English
 KillSults:Mode:Librecraft
 Spammer:Random:true
 Spammer:Delay:7.2
