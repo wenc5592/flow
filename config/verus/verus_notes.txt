@@ -1,1 +1,3 @@
-Do not use this config, use Librecraft config instead
+Fly, Scaffold, HighJump all bypass
+Do not use LongJump or Criticals
+Disabler is mostly patched
