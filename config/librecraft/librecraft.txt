@@ -39,7 +39,7 @@ Crosshair:false:0:false
 KillAura:false:19:false
 NoRotate:false:0:false
 NoSlow:true:0:false
-AutoPot:true:47:false
+AutoPot:false:47:false
 Chams:true:0:false
 TabGUI:false:0:false
 Session:false:0:false
