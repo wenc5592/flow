@@ -76,8 +76,8 @@ LongJump:Damage:false
 AntiBots:Dead:true
 AntiBots:Mode:Basic
 AntiBots:Info:true
-FastUse:Ticks:20.0
-FastUse:Mode:Packet
+FastUse:Ticks:12.0
+FastUse:Mode:Silent
 FastUse:Bow:false
 ChestStealer:Ignore:true
 ChestStealer:Silent:true
