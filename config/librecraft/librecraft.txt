@@ -22,7 +22,7 @@ FreeCam:false:0:false
 LongJump:false:34:false
 AntiBots:true:0:false
 Jesus:false:0:false
-FastUse:false:0:false
+FastUse:true:0:false
 ChestStealer:false:35:false
 Fly:false:33:false
 AutoSoup:false:0:false
