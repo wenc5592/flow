@@ -85,8 +85,8 @@ ChestStealer:Close:true
 ChestStealer:Aura:false
 ChestStealer:Delay:50.0
 ChestStealer:Drop:false
-Fly:Speed:0.35
-Fly:Mode:Verus
+Fly:Speed:0.25
+Fly:Mode:Jump
 Fly:Damage:Off
 AutoSoup:Health:3
 AutoSoup:Delay:350
