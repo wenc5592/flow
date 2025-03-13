@@ -58,3 +58,5 @@ GamePlay:false:0:false
 Disabler:false:0:false
 StaffDetect:true:0:false
 DMGParticle:true:0:false
+FastLadder:false:0:false
+
