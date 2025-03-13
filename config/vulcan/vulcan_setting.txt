@@ -1,0 +1,168 @@
+Animations:Equip:false
+Animations:Speed:-0.3
+Animations:Animation:Swank
+Animations:Scale:0.6
+HUD:Background:false
+HUD:Blue:255.0
+HUD:Saturation:0.35
+HUD:Color Mode:Flow
+HUD:Title:flowsense
+HUD:Spacing:Space
+HUD:Font:Flow
+HUD:Rotations:true
+HUD:Red:255.0
+HUD:Lowercase:false
+HUD:Height:12.0
+HUD:Opacity:55.0
+HUD:Green:255.0
+AntiVoid:Mode:Teleport
+AntiVoid:Void:true
+AntiVoid:Distance:5
+InvManager:Auto Sword:true
+InvManager:Clean Food:false
+InvManager:Clean Inventory:true
+InvManager:Block Cap:512.0
+InvManager:Clean Archery:false
+InvManager:Mode:OpenInv
+InvManager:Attacking:false
+InvManager:Delay:1.0
+Timer:Timer Speed:1.35
+ESP:Mode:Fill
+ESP:Team:true
+PingSpoof:Wait:7.0
+Speed:Timer:1.0
+Speed:Mode:Vulcan
+Speed:Damage Boost:false
+Speed:Lag Back:true
+Criticals:Mode:Verus
+Criticals:HurtTime:15.0
+Tracers:Signs:false
+Tracers:Spawners:false
+Tracers:Chests:false
+Tracers:Players:true
+AutoClicker:On Mouse:true
+AutoClicker:Random:false
+AutoClicker:Min Random:50
+AutoClicker:Delay:100
+AutoClicker:Max Random:100
+AimAssist:FOV Yaw:50.0
+AimAssist:FOV Pitch:50.0
+AimAssist:V Speed:50.0
+AimAssist:Random H:0.0
+AimAssist:Range:4.5
+AimAssist:Weapon:false
+AimAssist:Random V:0
+AimAssist:H Speed:20
+Scaffold:ESP:false
+Scaffold:Switch Mode:Switch
+Scaffold:Mode:Pre
+Scaffold:Tower Mode:Normal
+Scaffold:No Swing:true
+Scaffold:AAC Tower:0.2
+Scaffold:Same Y:true
+Scaffold:Expand:0.0
+Scaffold:Block Picker:false
+Scaffold:Tower:true
+Scaffold:Sprint:false
+Scaffold:Eagle:false
+Scaffold:Tower Move:false
+NoFall:Mode:VCP
+FreeCam:Speed:1.0
+LongJump:Timer:1.0
+LongJump:Boost:2.8
+LongJump:Toggle:true
+LongJump:Mode:Vulcan
+LongJump:Blink:false
+LongJump:Damage:false
+AntiBots:Dead:true
+AntiBots:Mode:Basic
+AntiBots:Info:true
+FastUse:Ticks:12.0
+FastUse:Mode:Silent
+FastUse:Bow:false
+ChestStealer:Ignore:true
+ChestStealer:Silent:true
+ChestStealer:Close:true
+ChestStealer:Aura:false
+ChestStealer:Delay:50.0
+ChestStealer:Drop:false
+Fly:Speed:0.25
+Fly:Mode:Jump
+Fly:Damage:Off
+AutoSoup:Health:3
+AutoSoup:Delay:350
+AutoSoup:Drop:false
+Xray:Cave:false
+Xray:Opacity:160
+Velocity:Vertical:0.0
+Velocity:Horizontal:0.0
+Velocity:Mode:TickReset
+FastPlace:Click Speed:4
+Commands:Chat Prefix:.
+NameTags:Invisibles:true
+NameTags:Armor:false
+AutoArmor:Mode:OpenInv
+AutoArmor:Delay:1.0
+InvMove:Mode:AACP
+Crosshair:Dynamic:false
+Crosshair:Size:8.5
+Crosshair:Gap:1.75
+Crosshair:Width:0.5
+KillAura:Others:true
+KillAura:Auto Block Mode:Vanilla
+KillAura:Invisibles:false
+KillAura:ESP:false
+KillAura:Hit Chance:100.0
+KillAura:Interact Auto Block:false
+KillAura:Auto Block:true
+KillAura:Rotation Mode:Legit
+KillAura:Priority:Range
+KillAura:Mode:Switch
+KillAura:KeepSprint:false
+KillAura:Disable on Death:true
+KillAura:Range:3.6
+KillAura:Min CPS:7.0
+KillAura:Type:Pre
+KillAura:Block Range:5.0
+KillAura:Teams:false
+KillAura:Max CPS:10.0
+KillAura:Walls:false
+KillAura:Players:true
+NoSlow:Mode:Vanilla
+AutoPot:Predict:true
+AutoPot:Speed:true
+AutoPot:Health:4.5
+AutoPot:Jump:false
+AutoPot:Overpot:false
+AutoPot:Delay:350
+AutoPot:Regen:true
+TabGUI:ToolTops:true
+Session:Kills:false
+Session:Time:false
+Session:Flags:true
+Phase:Mode:Clip
+Phase:Distance:2
+BedNuker:Silent:false
+Blink:Fly:false
+Blink:Breadcrumbs:true
+NameProtect:Hide Tab List:false
+NameProtect:Scramble Players:false
+NameProtect:Hide Scoreboard:false
+NameProtect:Name Protect:true
+NameProtect:Spoof Skins:false
+ClickGUI:Mode:Flow
+ClickGUI:Theme:Light
+KillSults:Mode:English
+KillSults:Mode:Librecraft
+Spammer:Random:true
+Spammer:Delay:7.2
+GamePlay:Auto GG:true
+GamePlay:Auto Join:true
+GamePlay:Mode:Librecraft
+GamePlay:Auto Play:true
+Disabler:Mode:Combat
+HighJump:Boost:1.3
+HighJump:Toggle:true
+HighJump:Mode:Verus
+HighJump:Height:2.1
+TargetHUD:Target HUD Mode:Exhi
