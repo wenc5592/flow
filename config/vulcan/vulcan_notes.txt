@@ -1,3 +1,3 @@
-AutoBlock and scaffold ban
+AutoBlock bans
 KillAura, Fly, FastEat work
 TickReset velocity and speed works for some versions
