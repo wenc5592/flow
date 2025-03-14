@@ -1,7 +1,7 @@
 Animations:Equip:false
-Animations:Speed:-0.3
-Animations:Animation:Swank
-Animations:Scale:0.6
+Animations:Speed:0.0
+Animations:Animation:1.7
+Animations:Scale:0.7
 HUD:Background:false
 HUD:Blue:255.0
 HUD:Saturation:0.35
@@ -25,13 +25,13 @@ InvManager:Block Cap:512.0
 InvManager:Clean Archery:false
 InvManager:Mode:OpenInv
 InvManager:Attacking:false
-InvManager:Delay:1.0
-Timer:Timer Speed:1.35
+InvManager:Delay:2.0
+Timer:Timer Speed:0.6
 ESP:Mode:Fill
 ESP:Team:true
 PingSpoof:Wait:7.0
 Speed:Timer:1.0
-Speed:Mode:Vulcan
+Speed:Mode:Slow
 Speed:Damage Boost:false
 Speed:Lag Back:true
 Criticals:Mode:Verus
@@ -55,18 +55,18 @@ AimAssist:Random V:0
 AimAssist:H Speed:20
 Scaffold:ESP:false
 Scaffold:Switch Mode:Switch
-Scaffold:Mode:Pre
+Scaffold:Mode:New3
 Scaffold:Tower Mode:Normal
 Scaffold:No Swing:true
 Scaffold:AAC Tower:0.2
-Scaffold:Same Y:true
+Scaffold:Same Y:false
 Scaffold:Expand:0.0
 Scaffold:Block Picker:false
-Scaffold:Tower:true
+Scaffold:Tower:false
 Scaffold:Sprint:false
-Scaffold:Eagle:false
+Scaffold:Eagle:true
 Scaffold:Tower Move:false
-NoFall:Mode:VCP
+NoFall:Mode:Verus
 FreeCam:Speed:1.0
 LongJump:Timer:1.0
 LongJump:Boost:2.8
@@ -84,7 +84,7 @@ ChestStealer:Ignore:true
 ChestStealer:Silent:true
 ChestStealer:Close:true
 ChestStealer:Aura:false
-ChestStealer:Delay:50.0
+ChestStealer:Delay:80.0
 ChestStealer:Drop:false
 Fly:Speed:0.25
 Fly:Mode:Jump
@@ -109,24 +109,23 @@ Crosshair:Size:8.5
 Crosshair:Gap:1.75
 Crosshair:Width:0.5
 KillAura:Others:true
-KillAura:Auto Block Mode:Vanilla
 KillAura:Invisibles:false
 KillAura:ESP:false
 KillAura:Hit Chance:100.0
 KillAura:Interact Auto Block:false
-KillAura:Auto Block:true
 KillAura:Rotation Mode:Legit
+KillAura:Auto Block:None
 KillAura:Priority:Range
 KillAura:Mode:Switch
 KillAura:KeepSprint:false
 KillAura:Disable on Death:true
-KillAura:Range:3.6
+KillAura:Range:3.9
 KillAura:Min CPS:7.0
 KillAura:Type:Pre
 KillAura:Block Range:5.0
 KillAura:Teams:false
 KillAura:Max CPS:10.0
-KillAura:Walls:false
+KillAura:Walls:true
 KillAura:Players:true
 NoSlow:Mode:Vanilla
 AutoPot:Predict:true
