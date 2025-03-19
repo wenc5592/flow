@@ -138,7 +138,7 @@ TabGUI:ToolTops:true
 Session:Kills:false
 Session:Time:false
 Session:Flags:true
-Phase:Mode:Clip
+Phase:Mode:NCP
 Phase:Distance:2
 BedNuker:Silent:false
 Blink:Fly:false
