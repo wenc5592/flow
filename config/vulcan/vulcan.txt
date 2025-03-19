@@ -19,12 +19,12 @@ AutoTool:true:0:false
 Scaffold:false:44:false
 NoFall:false:0:false
 FreeCam:false:0:false
-LongJump:false:33:false
+LongJump:false:34:false
 AntiBots:true:0:false
 Jesus:false:0:false
 FastUse:true:0:false
 ChestStealer:true:35:false
-Fly:false:0:false
+Fly:false:33:false
 AutoSoup:false:0:false
 ChestESP:true:0:false
 Sprint:true:0:false
@@ -34,7 +34,7 @@ FastPlace:false:0:false
 Commands:true:0:false
 NameTags:true:0:false
 AutoArmor:true:0:false
-InvMove:true:0:false
+InvMove:false:0:false
 Crosshair:false:0:false
 KillAura:false:19:false
 NoRotate:false:0:false
@@ -46,7 +46,7 @@ Session:false:0:false
 Phase:false:49:false
 BedNuker:false:0:false
 Unstuck:false:0:false
-Blink:false:0:false
+Blink:false:48:false
 NameProtect:false:0:false
 ClickGUI:false:54:false
 NoHurtCam:false:0:false
@@ -54,9 +54,9 @@ MCF:true:0:false
 KillSults:true:0:false
 Spammer:false:0:false
 GamePlay:false:0:false
-Disabler:false:0:false
+Disabler:false:38:false
 StaffDetect:true:0:false
 DMGParticle:true:0:false
-HighJump:false:48:false
+HighJump:false:0:false
 TargetHUD:true:0:false
 FastLadder:false:0:false
