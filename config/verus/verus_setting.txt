@@ -108,12 +108,11 @@ Crosshair:Size:8.5
 Crosshair:Gap:1.75
 Crosshair:Width:0.5
 KillAura:Others:true
-KillAura:Auto Block Mode:Vanilla
+KillAura:Auto Block:Vanilla
 KillAura:Invisibles:false
 KillAura:ESP:false
 KillAura:Hit Chance:100.0
 KillAura:Interact Auto Block:false
-KillAura:Auto Block:true
 KillAura:Rotation Mode:Smooth
 KillAura:Priority:Range
 KillAura:Mode:Switch
