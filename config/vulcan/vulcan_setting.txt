@@ -1,20 +1,20 @@
 Animations:Equip:false
-Animations:Speed:0.0
+Animations:Speed:-0.3
 Animations:Animation:1.7
 Animations:Scale:0.7
 HUD:Background:false
 HUD:Blue:255.0
-HUD:Saturation:0.35
+HUD:Saturation:0.4
 HUD:Color Mode:Flow
 HUD:Title:flowsense
 HUD:Spacing:Space
-HUD:Font:Flow
+HUD:Font:Vanilla
 HUD:Rotations:true
 HUD:Red:255.0
-HUD:Lowercase:false
-HUD:Height:12.0
-HUD:Opacity:55.0
-HUD:Green:255.0
+HUD:Lowercase:true
+HUD:Height:11.0
+HUD:Opacity:160.0
+HUD:Green:116.0
 AntiVoid:Mode:Teleport
 AntiVoid:Void:true
 AntiVoid:Distance:5
@@ -28,10 +28,10 @@ InvManager:Attacking:false
 InvManager:Delay:2.0
 Timer:Timer Speed:0.6
 ESP:Mode:Fill
-ESP:Team:true
+ESP:Team:false
 PingSpoof:Wait:7.0
 Speed:Timer:1.0
-Speed:Mode:Slow
+Speed:Mode:Vulcan
 Speed:Damage Boost:false
 Speed:Lag Back:true
 Criticals:Mode:Verus
@@ -64,7 +64,7 @@ Scaffold:Expand:0.0
 Scaffold:Block Picker:false
 Scaffold:Tower:false
 Scaffold:Sprint:false
-Scaffold:Eagle:true
+Scaffold:Eagle:false
 Scaffold:Tower Move:false
 NoFall:Mode:Verus
 FreeCam:Speed:1.0
@@ -84,7 +84,7 @@ ChestStealer:Ignore:true
 ChestStealer:Silent:true
 ChestStealer:Close:true
 ChestStealer:Aura:false
-ChestStealer:Delay:80.0
+ChestStealer:Delay:90.0
 ChestStealer:Drop:false
 Fly:Speed:0.25
 Fly:Mode:Jump
@@ -99,15 +99,15 @@ Velocity:Horizontal:0.0
 Velocity:Mode:TickReset
 FastPlace:Click Speed:4
 Commands:Chat Prefix:.
-NameTags:Invisibles:true
+NameTags:Invisibles:false
 NameTags:Armor:false
 AutoArmor:Mode:OpenInv
 AutoArmor:Delay:1.0
 InvMove:Mode:AACP
-Crosshair:Dynamic:false
-Crosshair:Size:8.5
-Crosshair:Gap:1.75
-Crosshair:Width:0.5
+Crosshair:Dynamic:true
+Crosshair:Size:7
+Crosshair:Gap:5
+Crosshair:Width:2
 KillAura:Others:true
 KillAura:Invisibles:false
 KillAura:ESP:false
@@ -119,7 +119,7 @@ KillAura:Priority:Range
 KillAura:Mode:Switch
 KillAura:KeepSprint:false
 KillAura:Disable on Death:true
-KillAura:Range:3.9
+KillAura:Range:5.75
 KillAura:Min CPS:7.0
 KillAura:Type:Pre
 KillAura:Block Range:5.0
@@ -164,4 +164,4 @@ HighJump:Boost:1.3
 HighJump:Toggle:true
 HighJump:Mode:Verus
 HighJump:Height:2.1
-TargetHUD:Target HUD Mode:Exhi
+TargetHUD:Target HUD Mode:Flow
