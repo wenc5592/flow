@@ -119,7 +119,7 @@ KillAura:Priority:Range
 KillAura:Mode:Switch
 KillAura:KeepSprint:false
 KillAura:Disable on Death:true
-KillAura:Range:5.75
+KillAura:Range:4.25
 KillAura:Min CPS:7.0
 KillAura:Type:Pre
 KillAura:Block Range:5.0
