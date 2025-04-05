@@ -1,21 +1,20 @@
 Animations:Equip:false
-Animations:Speed:0.0
-Animations:Animation:Flow
+Animations:Speed:-0.3
+Animations:Animation:1.7
 Animations:Scale:0.8
 HUD:Background:false
 HUD:Blue:255.0
-HUD:Saturation:0.5
+HUD:Saturation:0.4
 HUD:Color Mode:Flow
 HUD:Title:flowsense
-HUD:Spacing:Dash
-HUD:Font:Flow
+HUD:Spacing:Space
+HUD:Font:Vanilla
 HUD:Rotations:true
 HUD:Red:255.0
 HUD:Lowercase:true
-HUD:Target HUD Mode:Flow
 HUD:Height:11.0
-HUD:Opacity:124.0
-HUD:Green:255.0
+HUD:Opacity:160.0
+HUD:Green:116.0
 AntiVoid:Mode:Teleport
 AntiVoid:Void:true
 AntiVoid:Distance:5
@@ -28,13 +27,14 @@ InvManager:Mode:OpenInv
 InvManager:Attacking:false
 InvManager:Delay:1.0
 Timer:Timer Speed:1.1
-ESP:Mode:Outline
-ESP:Team:true
+ESP:Mode:Fill
+ESP:Team:false
 PingSpoof:Wait:7.0
 Speed:Timer:1.0
 Speed:Mode:VerusSlow
+Speed:Damage Boost:false
 Speed:Lag Back:true
-Criticals:Mode:Verus
+Criticals:Mode:Packet
 Criticals:HurtTime:15.0
 Tracers:Signs:false
 Tracers:Spawners:false
@@ -53,17 +53,20 @@ AimAssist:Range:4.5
 AimAssist:Weapon:false
 AimAssist:Random V:0
 AimAssist:H Speed:20
-Scaffold:AAC Tower:0.2
-Scaffold:Same Y:true
 Scaffold:ESP:false
 Scaffold:Switch Mode:Switch
-Scaffold:Mode:New2
+Scaffold:Slow:false
+Scaffold:Mode:New3
+Scaffold:C06:true
+Scaffold:Tower Mode:Normal
+Scaffold:No Swing:true
+Scaffold:AAC Tower:0.2
+Scaffold:Same Y:true
 Scaffold:Expand:0.0
 Scaffold:Block Picker:false
 Scaffold:Tower:true
 Scaffold:Sprint:false
-Scaffold:Tower Mode:Normal
-Scaffold:No Swing:true
+Scaffold:Eagle:false
 Scaffold:Tower Move:false
 NoFall:Mode:VCP
 FreeCam:Speed:1.0
@@ -98,29 +101,29 @@ Velocity:Horizontal:0.0
 Velocity:Mode:Simple
 FastPlace:Click Speed:4
 Commands:Chat Prefix:.
-NameTags:Invisibles:true
+NameTags:Invisibles:false
 NameTags:Armor:false
 AutoArmor:Mode:OpenInv
 AutoArmor:Delay:1.0
 InvMove:Mode:AACP
-Crosshair:Dynamic:false
-Crosshair:Size:8.5
-Crosshair:Gap:1.75
-Crosshair:Width:0.5
+Crosshair:Dynamic:true
+Crosshair:Size:7
+Crosshair:Gap:5
+Crosshair:Width:2
 KillAura:Others:true
-KillAura:Auto Block:Vanilla
 KillAura:Invisibles:false
 KillAura:ESP:false
 KillAura:Hit Chance:100.0
 KillAura:Interact Auto Block:false
 KillAura:Rotation Mode:Smooth
+KillAura:Auto Block:Vanilla
 KillAura:Priority:Range
 KillAura:Mode:Switch
+KillAura:KeepSprint:false
 KillAura:Disable on Death:true
 KillAura:Range:3.6
 KillAura:Min CPS:6.0
 KillAura:Type:Pre
-KillAura:Target HUD:true
 KillAura:Block Range:5.0
 KillAura:Teams:false
 KillAura:Max CPS:13.0
@@ -138,7 +141,7 @@ TabGUI:ToolTops:true
 Session:Kills:false
 Session:Time:false
 Session:Flags:true
-Phase:Mode:NCP
+Phase:Mode:FullBlock
 Phase:Distance:2
 BedNuker:Silent:false
 Blink:Fly:false
@@ -150,8 +153,7 @@ NameProtect:Name Protect:true
 NameProtect:Spoof Skins:false
 ClickGUI:Mode:Flow
 ClickGUI:Theme:Light
-AutoEat:Food Level:8.5
-KillSults:Mode:English
+KillSults:Mode:Spanish
 KillSults:Mode:Librecraft
 Spammer:Random:true
 Spammer:Delay:7.2
@@ -160,3 +162,8 @@ GamePlay:Auto Join:true
 GamePlay:Mode:Librecraft
 GamePlay:Auto Play:true
 Disabler:Mode:Combat
+HighJump:Boost:1.3
+HighJump:Toggle:true
+HighJump:Mode:Verus
+HighJump:Height:2.1
+TargetHUD:Target HUD Mode:Exhi
